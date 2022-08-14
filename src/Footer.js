@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <small>
       <a
-        href="https://github.com/asami0119/weather-app"
+        href="https://github.com/asami0119/my-app"
         rel="noreferrer"
         target="_blank"
       >
